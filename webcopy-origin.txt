@@ -1,0 +1,104 @@
+Uri: https://homigrad.com/
+File Name: D:\Сайты\homigrad.com\index.htm
+Content Type: text/html
+
+Uri: https://homigrad.com/resource/back.jpg
+File Name: D:\Сайты\homigrad.com\resource\back.jpg
+Content Type: 
+
+Uri: https://homigrad.com/resource/background_discord.png
+File Name: D:\Сайты\homigrad.com\resource\background_discord.png
+Content Type: image/png
+
+Uri: https://homigrad.com/resource/background_shop.png
+File Name: D:\Сайты\homigrad.com\resource\background_shop.png
+Content Type: image/png
+
+Uri: https://homigrad.com/resource/background_tiktok.png
+File Name: D:\Сайты\homigrad.com\resource\background_tiktok.png
+Content Type: image/png
+
+Uri: https://homigrad.com/resource/background_youtube.png
+File Name: D:\Сайты\homigrad.com\resource\background_youtube.png
+Content Type: image/png
+
+Uri: https://homigrad.com/resource/back_en.jpg
+File Name: D:\Сайты\homigrad.com\resource\back_en.jpg
+Content Type: 
+
+Uri: https://homigrad.com/resource/donat_tg_avatar.jpg
+File Name: D:\Сайты\homigrad.com\resource\donat_tg_avatar.jpg
+Content Type: image/jpg
+
+Uri: https://homigrad.com/resource/email.png
+File Name: D:\Сайты\homigrad.com\resource\email.png
+Content Type: image/png
+
+Uri: https://homigrad.com/resource/fav.ico
+File Name: D:\Сайты\homigrad.com\resource\fav.ico
+Content Type: image/ico
+
+Uri: https://homigrad.com/resource/icon.png
+File Name: D:\Сайты\homigrad.com\resource\icon.png
+Content Type: image/png
+
+Uri: https://homigrad.com/resource/icons.css
+File Name: D:\Сайты\homigrad.com\resource\icons.css
+Content Type: text/css
+
+Uri: https://homigrad.com/resource/icons/discord.png
+File Name: D:\Сайты\homigrad.com\resource\icons\discord.png
+Content Type: image/png
+
+Uri: https://homigrad.com/resource/icons/tiktok.png
+File Name: D:\Сайты\homigrad.com\resource\icons\tiktok.png
+Content Type: image/png
+
+Uri: https://homigrad.com/resource/icons/vk.png
+File Name: D:\Сайты\homigrad.com\resource\icons\vk.png
+Content Type: image/png
+
+Uri: https://homigrad.com/resource/icons/youtube.png
+File Name: D:\Сайты\homigrad.com\resource\icons\youtube.png
+Content Type: image/png
+
+Uri: https://homigrad.com/resource/loading.png
+File Name: D:\Сайты\homigrad.com\resource\loading.png
+Content Type: image/png
+
+Uri: https://homigrad.com/resource/main.css
+File Name: D:\Сайты\homigrad.com\resource\main.css
+Content Type: text/css
+
+Uri: https://homigrad.com/resource/main.js
+File Name: D:\Сайты\homigrad.com\resource\main.js
+Content Type: multipart/form-data
+
+Uri: https://homigrad.com/resource/main_servers.css
+File Name: D:\Сайты\homigrad.com\resource\main_servers.css
+Content Type: text/css
+
+Uri: https://homigrad.com/resource/promo.webm
+File Name: D:\Сайты\homigrad.com\resource\promo.webm
+Content Type: video/webm
+
+Uri: https://homigrad.com/resource/refresh.png
+File Name: D:\Сайты\homigrad.com\resource\refresh.png
+Content Type: image/png
+
+Uri: https://homigrad.com/shop
+File Name: D:\Сайты\homigrad.com\shop.html
+Content Type: text/html
+
+Uri: https://homigrad.com/shop/role
+File Name: D:\Сайты\homigrad.com\shop\role
+Content Type: 
+
+Uri: https://homigrad.com/wiki
+File Name: D:\Сайты\homigrad.com\wiki
+Content Type: 
+
+Uri: https://homigrad.com/wiki/howfindsteamid/
+File Name: D:\Сайты\homigrad.com\wiki (1)\howfindsteamid\index.htm
+Content Type: 
+

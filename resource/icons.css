@@ -1,0 +1,59 @@
+.ds::before {
+    content: "";
+    background-image: url(icons/discord.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1.5em;
+    width: 1.5em;
+    display: flex;
+    float: left;
+    margin-right: 6px;
+}
+
+.yt::before {
+    content: "";
+    background-image: url(icons/youtube.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1.5em;
+    width: 1.5em;
+    display: flex;
+    float: left;
+    margin-right: 6px;
+}
+
+.tiktok::before {
+    content: "";
+    background-image: url(icons/tiktok.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1.5em;
+    width: 1.5em;
+    display: flex;
+    float: left;
+    margin-right: 6px;
+}
+
+.vk::before {
+    content: "";
+    background-image: url(icons/vk.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1.5em;
+    width: 1.5em;
+    display: flex;
+    float: left;
+    margin-right: 6px;
+}
+
+.logo::before {
+    content: "";
+    background-image: url(fav.ico);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20px;
+    width: 20px;
+    display: flex;
+    float: left;
+    margin-right: 6px;
+}
